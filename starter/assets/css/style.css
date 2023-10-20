@@ -84,6 +84,10 @@ a {
 
 /*||Search Engine Optimisation Box*/
 
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -95,12 +99,13 @@ a {
 .search-engine-optimization img {
     max-height: 200px;
 }
-.search-engine-optimization h2 {
+
+/*||Online Reputation Management Box||*/
+
+.online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-/*||Online Reputation Management Box||*/
 
 .online-reputation-management {
     margin-bottom: 20px;
@@ -113,11 +118,6 @@ a {
 
 .online-reputation-management img {
     max-height: 200px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /*||Social Media Management Box||*/
@@ -202,13 +202,12 @@ a {
 
 /*||Footer||*/
 
+.footer h2 {
+    font-size: 20px;
+}
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
 }
