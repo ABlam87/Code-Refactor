@@ -23,15 +23,15 @@ N/A
 
 ## Usage
 
-```md
-![alt text] (assets\Screenshot Horiseon CSS File.PNG)
-```
+
+![Screenshot of general rules in CSS File](Assets\Screenshot-Horiseon-CSS-File.PNG)
+
 
 All general rules are listed at the top of the CSS, as pictured. Rules for specific elements are grouped beneath, as per page layout.
 
-```md
-![alt text] (assets\SEO link.PNG)
-```
+
+![Fixed link](./Assets/SEO-link.PNG)
+
 The ID attribute was missing from the HTML file for this element, meaning that the link didn't cause the page to scroll as intended. This has now been fixed.
 
 ## Credit 
