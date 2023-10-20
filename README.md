@@ -24,7 +24,7 @@ N/A
 ## Usage
 
 
-![Screenshot of general rules in CSS File](Assets\Screenshot-Horiseon-CSS-File.PNG)
+![Screenshot of general rules in CSS File](Assets/Screenshot-Horiseon-CSS-File.PNG)
 
 
 All general rules are listed at the top of the CSS, as pictured. Rules for specific elements are grouped beneath, as per page layout.
